@@ -1,4 +1,4 @@
-# Unreal Engine C++
+# Game Development with C++
 
 This repository will be used to share the work developed in the new course I'm taking: [Unreal Engine C++ Developer: Learn C++ and Make Video Games](https://www.udemy.com/course/unrealcourse/).
 
